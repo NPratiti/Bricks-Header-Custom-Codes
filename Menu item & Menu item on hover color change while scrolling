@@ -1,0 +1,9 @@
+/*Menu Scrolling Color*/
+#brx-header.sticky.scrolling .current-menu-item > a{
+  color: XXXXX;
+}
+
+/*Menu Item Color on Hover*/
+#brx-header.sticky.scrolling .bricks-nav-menu > li > a:hover{
+  color: XXXXX;
+}
